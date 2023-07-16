@@ -1,0 +1,29 @@
+.item-details-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+.body-container {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+}
+.item-image {
+  width: 300px;
+  height: 350px;
+  margin-right: 20px;
+}
+.item-heading {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #1e293b;
+  font-weight: 600;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #475569;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+}

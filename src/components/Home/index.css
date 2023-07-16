@@ -1,0 +1,25 @@
+.app-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+.bottom-container {
+  padding: 30px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #1e293b;
+  font-weight: 600;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+}
+.list-container {
+  padding-left: 0px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+}

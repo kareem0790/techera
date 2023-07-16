@@ -1,0 +1,29 @@
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-img {
+  width: 30%;
+}
+.failure-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+  color: #475569;
+}
+.failure-description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #475569;
+}
+.button {
+  background-color: #4656a1;
+  color: #e8e8e8;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  font-size: 14px;
+  padding: 8px 16px 8px 16px;
+}
